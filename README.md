@@ -64,7 +64,7 @@ To run the FastAPI server, always use the Uvicorn command with reload enabled. T
 
 The Streamlit app runs locally by default, but you can deploy it online on Streamlit Community Cloud or connect it with a public server to make it accessible remotely. This makes it easier to demonstrate your model predictions to others interactively.
 
-## SSummary
+## Summary
 
 In this lab, we successfully built an end-to-end machine learning application using FastAPI and Streamlit. The FastAPI backend hosts a trained model on the Penguins dataset, while Streamlit provides a visual interface for testing the model with various inputs. The app checks backend connectivity, accepts user input through sliders or files, and displays real-time predictions.
 
